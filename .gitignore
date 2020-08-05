@@ -1,0 +1,13 @@
+
+
+# Jupyter 
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+
+# vscode
+.vs
+.vscode
+
+# Pycharm
+.idea
