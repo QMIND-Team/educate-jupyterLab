@@ -6,3 +6,14 @@ Make sure you assign @uGokalp (Umur Gokalp) to the issue.
 
 Thanks a lot! 
 
+
+# Instructions for submission | Read this first
+
+1. Add the name of your notebook as an issue.
+2. Leave a comment with the link to the file on your branch.
+3. Assign uGokalp to your issue.
+
+
+You don't need to open a pull request!
+
+
